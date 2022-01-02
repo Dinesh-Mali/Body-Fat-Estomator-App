@@ -22,7 +22,7 @@ This project tends to estimate % of the body fat in a human's body based on para
 
 # Attributes in the dataset
 
-1) Density determined from underwater weighing
+1) Density determined from underwater weighing 
 2) Percent body fat from Siri's (1956) equation
 3) Age (years)
 4) Weight (lbs)
