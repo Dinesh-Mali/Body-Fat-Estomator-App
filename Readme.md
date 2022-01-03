@@ -37,3 +37,5 @@ This project tends to estimate % of the body fat in a human's body based on para
 13) Biceps (extended) circumference (cm)
 14) Forearm circumference (cm)
 15) Wrist circumference (cm)
+
+## Note - I am working on to add the Complete end-to-end description for this project. Please stay tuned!!
